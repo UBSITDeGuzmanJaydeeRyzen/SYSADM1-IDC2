@@ -80,9 +80,38 @@
 | Course Reflection                      |              |              |
 +----------------------------------------+--------------+--------------+
 
-**\<insert your scanned activities here include title\>**
+FGE_A1 Physical Infrastructure
+![image](https://github.com/user-attachments/assets/181f73e9-f0bb-4c9b-b0ec-405e5d183d35)
+SYSADM1 – Physical Infrastructure
+Instructions: 
+Answer the following questions based on Week 3 Lecture notes.
+Identify potential issues in physical infrastructure setups and propose solutions to optimize performance or reduce costs
+Issues:
+Wasted Space: Inefficient layout can lead to unused areas.
+Power and Cooling Problems: Overloaded circuits or poor cooling can cause failures.
+Network Slowdowns: Insufficient bandwidth or poor design can limit performance.
+Lack of Scalability: Designs that can’t grow with future needs.
+High Costs: Overuse or misuse of resources can increase costs.
+You are a project manager responsible for implementing a new infrastructure project, such as a smart city initiative or a digital transformation strategy.
+What IT systems and technologies are necessary to support the project's objectives?
+Smart City: Use IoT sensors, cloud computing, data analytics, 5G, and smart grids.
+Digital Transformation: Use cloud services, ERP systems, cybersecurity, big data, and AI tools. 
+How can the IT infrastructure be designed to be scalable and flexible?
+Modular Design: Use components that can be easily expanded.
+Cloud Services: Use cloud computing for flexibility and scaling.
+Virtualization: Use virtual systems to better manage resources.
+Automation: Use tools to automatically manage resources and scale up as needed.
 
-**Quiz 1:**
+What are the potential security risks and vulnerabilities, and how can they be addressed?
+Data Protection: Use encryption and multi-factor authentication.
+Network Safety: Use firewalls and intrusion detection systems.
+Physical Security: Secure data centers and equipment.
+Compliance: Follow relevant laws and standards.
+How can the IT infrastructure be integrated with existing systems and processes to minimize disruption?
+Choose Compatible Tech: Ensure new tech works with current systems.
+Phased Rollout: Introduce changes gradually to avoid disruptions.
+Train Staff: Teach staff how to use new systems.
+Test Thoroughly: Run tests before full deployment to fix problems.
 
 ![](vertopal_9c457542678940c3a453ed91e2cc4142/media/image2.png){width="2.8125in"
 height="2.8125in"}
