@@ -82,6 +82,7 @@
 
 FGE_A1 Physical Infrastructure
 ![image](https://github.com/user-attachments/assets/181f73e9-f0bb-4c9b-b0ec-405e5d183d35)
+
 SYSADM1 – Physical Infrastructure
 Instructions: 
 Answer the following questions based on Week 3 Lecture notes.
