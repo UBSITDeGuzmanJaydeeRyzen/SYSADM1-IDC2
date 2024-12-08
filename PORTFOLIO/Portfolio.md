@@ -80,6 +80,13 @@
   ![image](https://github.com/user-attachments/assets/a77be3cb-162d-4b37-ae65-314e6eb3b5ff)
   ![image](https://github.com/user-attachments/assets/ed3fd242-0152-4739-9169-4b5bb2f86d73)
 
+  | FINALS |  
+  | :---------- |
+  | F_Capacity Planning  |
+  
+  ![image](https://github.com/user-attachments/assets/a7e28d5a-780f-4268-883f-bbcfb0013b90)
+
+
 | **Course Reflection** |
 | :---------- |
 
